@@ -1,17 +1,11 @@
 - 👋 Hi, I’m @RishiDarkDevil
 - 👀 I’m interested in:
-  - Data Science
-  - Machine Learning
-  - Deep Learning
-  - Image Processing & Computer Vision
-  - Computational Neuroscience
-  - Natural Language Processing
-  - Advanced Statistical Learning Theory
-  - AI Ethics
-  - Data Security 
-  - Reinforcement Learning 
-  - Big Data Analytics
-  - High Performance Computing & Distributed Systems
+  - Data Science, Machine Learning, Deep Learning, Reinforcement Learning 
+  - Image Processing, Computer Vision, Natural Language Processing
+  - Computational Neuroscience, Brain-Computer Interfaces
+  - AI Ethics, Data Security  
+  - Advanced Statistical Learning Theory, Optimization, Graphical Modeling
+  - Big Data Analytics, High Performance Computing, Distributed Systems
 
 - 🌱 I’m currently learning Data Science, Machine Learning, Image Processing, Fair Learning.
 - 💞️ I’m looking to collaborate on Data Science Workflows, Research Projects, Building Statistical Softwares.
