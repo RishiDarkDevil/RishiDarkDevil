@@ -4,7 +4,7 @@
   - Data Science, Machine Learning, Deep Learning, Reinforcement Learning 
   - Image Processing, Computer Vision, Natural Language Processing
   - Computational Neuroscience, Brain-Computer Interfaces
-  - AI Ethics, Data Security  
+  - AI Ethics, Data Security, Cryptography  
   - Advanced Statistical Learning Theory, Optimization, Graphical Modeling
   - Big Data Analytics, High Performance Computing, Distributed Systems
 - 🌱 I’m currently learning Deep Learning, Natural Language Processing, Computational Neuroscience, Computer Vision.
