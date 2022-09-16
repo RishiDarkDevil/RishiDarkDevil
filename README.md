@@ -1,4 +1,6 @@
-- 👋 Hi, I’m @RishiDarkDevil.
+<h1 align="center">Hello World 👋, I'm Rishi Dey Chowdhury</h1>
+<h3 align="center">@RishiDarkDevil</h1>
+
 - 🎓 Undegraduate Statistics Major at Indian Statistical Institute, Kolkata - India.
 - 👀 I’m interested in:
   - Data Science, Machine Learning, Deep Learning, Reinforcement Learning 
