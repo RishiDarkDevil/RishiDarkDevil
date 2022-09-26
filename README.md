@@ -13,6 +13,18 @@
 - 💞️ I’m looking to collaborate on Data Science Workflows, Research Projects, Building ML Systems.
 - 📫 How to reach me rishi8001100192@gmail.com
 
+### GitHub Stats
+<table class="center" style="width:100%;">
+  <tr>
+    <td align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rishidarkdevil&count_private=true&show_icons=true&theme=algolia&hide_border=true" />
+    </td>
+    <td align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishidarkdevil&langs_count=10&layout=compact&theme=algolia&hide_border=true" />
+</td>
+  </tr>
+</table>
+
 <!---
 RishiDarkDevil/RishiDarkDevil is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
