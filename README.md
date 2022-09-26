@@ -1,3 +1,7 @@
+<p align="center">
+  <a href="https://rishidarkdevil.github.io/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/52328147/192350589-c7164d50-a563-4405-9ee8-3a8e9efbeacc.png" alt="my banner"></a>
+</p> 
+
 <h1 align="center">Hello World 👋, I'm Rishi Dey Chowdhury</h1>
 <h3 align="center">@RishiDarkDevil</h1>
 
