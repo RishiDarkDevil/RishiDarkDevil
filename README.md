@@ -15,8 +15,9 @@ Hi, I'm Rishi Dey Chowdhury!
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Machine+Learning;Deep+Learning;Computer+Vision;Natural+Language+Processing;Computational+Neuroscience;Data+Security;Quantum+Computing" alt="Typing SVG" /></a>
 </p> 
 
-- 🎓 Undegraduate Statistics Major at Indian Statistical Institute, Kolkata - India.
-## 👀 I’m interested in:
+## 🎓 Studying
+  - Undegraduate Statistics Major at Indian Statistical Institute, Kolkata - India.
+## 👀 I’m interested in
   - Data Science, Machine Learning, Deep Learning, Reinforcement Learning 
   - Image Processing, Computer Vision, Natural Language Processing
   - Computational Neuroscience, Brain-Computer Interfaces
