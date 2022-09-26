@@ -20,7 +20,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=rishidarkdevil&count_private=true&show_icons=true&theme=algolia&hide_border=true" />
     </td>
     <td align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishidarkdevil&langs_count=10&layout=compact&theme=algolia&hide_border=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishidarkdevil&hide=html&langs_count=10&theme=algolia&hide_border=true" />
 </td>
   </tr>
 </table>
