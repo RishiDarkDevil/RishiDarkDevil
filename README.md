@@ -84,7 +84,7 @@ Hi, I'm Rishi Dey Chowdhury!
 <table class="center" style="width:100%;">
   <tr>
     <td align="center">
-<img align="center" alt="RishiDarkDevil's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=RishiDarkDevil&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
+<img align="center" alt="RishiDarkDevil's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=RishiDarkDevil&theme=react-dark" />
     </td>
     <td align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishidarkdevil&hide=html&langs_count=10&theme=algolia&hide_border=true" />
