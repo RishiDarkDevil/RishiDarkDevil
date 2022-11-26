@@ -27,9 +27,9 @@ Hi, I'm Rishi Dey Chowdhury!
   - Quantum Computing
 ## 🌱 I’m currently learning 
   - Deep Learning
+  - Computer Vision
   - Natural Language Processing
   - Computational Neuroscience
-  - Computer Vision
   - Quantum Computing
 
 ## 🛠️ My Favorite Tools
