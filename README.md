@@ -81,16 +81,9 @@ Hi, I'm Rishi Dey Chowdhury!
   </tr>
 </table>
 
-<table class="center" style="width:100%;">
-  <tr>
-    <td align="center">
-<img align="center" alt="RishiDarkDevil's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=RishiDarkDevil&theme=react-dark" />
-    </td>
-    <td align="center">
+<h1 align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishidarkdevil&hide=html&langs_count=10&theme=algolia&hide_border=true" />
-</td>
-  </tr>
-</table>
+</h1>
 
 <!---
 RishiDarkDevil/RishiDarkDevil is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
