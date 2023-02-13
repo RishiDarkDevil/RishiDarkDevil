@@ -57,15 +57,15 @@ Hi, I'm Rishi Dey Chowdhury!
 ## 🤝 Connect with Me
 
 <a href="https://www.linkedin.com/in/rishi-dey-chowdhury/"><img align="left" src="https://raw.githubusercontent.com/RishiDarkDevil/RishiDarkDevil/main/SVG/Color/LinkedIN.svg" alt="Rishi Dey Chowdhury | LinkedIn" width="50px"/></a>
-<a href="mailto: rishi8001100192@gmail.com"><img align="left" src="https://raw.githubusercontent.com/RishiDarkDevil/RishiDarkDevil/main/SVG/Color/Gmail.svg" alt="Rishi Dey Chowdhury | Gmail" width="50px"/></a>
+<a href="https://twitter.com/rishidarkdevil"><img align="left" src="https://raw.githubusercontent.com/RishiDarkDevil/RishiDarkDevil/main/SVG/Color/Twitter.svg" alt="Rishi Dey Chowdhury | Twitter" width="50px"/></a>
 <a href="https://rishidarkdevil.github.io/"><img align="left" src="https://raw.githubusercontent.com/RishiDarkDevil/RishiDarkDevil/main/SVG/Color/WWW.svg" alt="Rishi Dey Chowdhury | Website" width="50px"/></a>
+<a href="mailto: rishi8001100192@gmail.com"><img align="left" src="https://raw.githubusercontent.com/RishiDarkDevil/RishiDarkDevil/main/SVG/Color/Gmail.svg" alt="Rishi Dey Chowdhury | Gmail" width="50px"/></a>
 <a href="https://medium.com/@rishidarkdevil"><img align="left" src="https://raw.githubusercontent.com/RishiDarkDevil/RishiDarkDevil/main/SVG/Color/Medium.svg" alt="Rishi Dey Chowdhury | Medium" width="50px"/></a>
 <a href="https://stackoverflow.com/users/15240549/rishi-dey-chowdhury"><img align="left" src="https://raw.githubusercontent.com/RishiDarkDevil/RishiDarkDevil/main/SVG/Color/Stackoverflow.svg" alt="Rishi Dey Chowdhury | StackOverflow" width="50px"/></a>
 <a href="https://www.facebook.com/rishi.deychowdhury/"><img align="left" src="https://raw.githubusercontent.com/RishiDarkDevil/RishiDarkDevil/main/SVG/Color/Facebook.svg" alt="Rishi Dey Chowdhury | Facebook" width="50px"/></a>
 <a href="https://www.instagram.com/rishidarkdevil/"><img align="left" src="https://raw.githubusercontent.com/RishiDarkDevil/RishiDarkDevil/main/SVG/Color/Instagram.svg" alt="Rishi Dey Chowdhury | Instagram" width="50px"/></a>
 <a href="https://www.youtube.com/channel/UCiOcFWpy2TxZE8hXK4dQ-Wg"><img align="left" src="https://raw.githubusercontent.com/RishiDarkDevil/RishiDarkDevil/main/SVG/Color/Youtube.svg" alt="Rishi Dey Chowdhury | YouTube" width="50px"/></a>
 <a href="https://t.me/RishiDarkDevil"><img align="left" src="https://raw.githubusercontent.com/RishiDarkDevil/RishiDarkDevil/main/SVG/Color/Telegram.svg" alt="Rishi Dey Chowdhury | Telegram" width="50px"/></a>
-<a href="https://twitter.com/rishidarkdevil"><img align="left" src="https://raw.githubusercontent.com/RishiDarkDevil/RishiDarkDevil/main/SVG/Color/Twitter.svg" alt="Rishi Dey Chowdhury | Twitter" width="50px"/></a>
 </br></br></br>
 💞️ I’m looking to collaborate on Data Science Workflows, Research Projects, Building ML Systems.
 
