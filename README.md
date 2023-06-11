@@ -16,9 +16,9 @@ Hi, I'm Rishi Dey Chowdhury!
 </p> 
 
 ## 🎓 Studying
-  - Undegraduate Statistics Major at Indian Statistical Institute, Kolkata - India.
+  - 🗓 01.12.2020 → 01.06.2023: **Bachelor of Statistics** from Indian Statistical Institute, Kolkata - India.
 ## 👀 I’m interested in
-  - Data Science, Machine Learning, Deep Learning, Reinforcement Learning 
+  - Deep Learning, Machine Learning, Reinforcement Learning 
   - Image Processing, Computer Vision, Natural Language Processing
   - Computational Neuroscience, Brain-Computer Interfaces
   - AI Ethics, Data Security, Cryptography  
@@ -46,7 +46,7 @@ Hi, I'm Rishi Dey Chowdhury!
 ### 🧰 Frameworks and Libraries
 
 <p>
-    <a href="#"><img alt="TensorFlow" src="https://img.shields.io/badge/PyTorch%20-%23DC143C.svg?logo=PyTorch&logoColor=white"></a>
+    <a href="#"><img alt="PyTorch" src="https://img.shields.io/badge/PyTorch%20-%23DC143C.svg?logo=PyTorch&logoColor=white"></a>
     <a href="#"><img alt="Keras" src="https://img.shields.io/badge/Keras%20-%23D00000.svg?logo=Keras&logoColor=white"></a>
     <a href="#"><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow%20-%23FF6F00.svg?logo=TensorFlow&logoColor=white"></a>
     <a href="#"><img alt="Scikit-Learn" src="https://img.shields.io/badge/scikitlearn%20-%23C2DFFF.svg?logo=scikit-learn&logoColor=blue"></a>
@@ -67,7 +67,7 @@ Hi, I'm Rishi Dey Chowdhury!
 <a href="https://www.youtube.com/channel/UCiOcFWpy2TxZE8hXK4dQ-Wg"><img align="left" src="https://raw.githubusercontent.com/RishiDarkDevil/RishiDarkDevil/main/SVG/Color/Youtube.svg" alt="Rishi Dey Chowdhury | YouTube" width="50px"/></a>
 <a href="https://t.me/RishiDarkDevil"><img align="left" src="https://raw.githubusercontent.com/RishiDarkDevil/RishiDarkDevil/main/SVG/Color/Telegram.svg" alt="Rishi Dey Chowdhury | Telegram" width="50px"/></a>
 </br></br></br>
-💞️ I’m looking to collaborate on Data Science Workflows, Research Projects, Building ML Systems.
+💞️ I’m looking to collaborate on Data Science Workflows, Deep Learning Research Projects, Building ML Systems.
 
 ### GitHub Stats
 <table class="center" style="width:100%;">
