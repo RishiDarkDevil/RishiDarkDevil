@@ -16,7 +16,8 @@ Hi, I'm Rishi Dey Chowdhury!
 </p> 
 
 ## 🎓 Studying
-  - 🗓 01.12.2020 → 01.06.2023: **Bachelor of Statistics** from Indian Statistical Institute, Kolkata - India.
+  - 🗓 01.12.2020 → 01.06.2023: **Bachelor of Statistics (Hons)** from Indian Statistical Institute, Kolkata - India.
+  - 🗓 31.07.2023 → Present: **Master of Statistics** from Indian Statistical Institute, Kolkata - India.
 ## 👀 I’m interested in
   - Deep Learning, Machine Learning, Reinforcement Learning 
   - Image Processing, Computer Vision, Natural Language Processing
