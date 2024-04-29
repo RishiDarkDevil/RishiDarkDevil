@@ -19,19 +19,20 @@ Hi, I'm Rishi Dey Chowdhury!
   - 🗓 01.12.2020 → 01.06.2023: **Bachelor of Statistics (Hons)** from Indian Statistical Institute, Kolkata - India.
   - 🗓 31.07.2023 → Present: **Master of Statistics** from Indian Statistical Institute, Kolkata - India.
 ## 👀 I’m interested in
+  - Quant Trading & Research, Algorithmic Trading
   - Deep Learning, Machine Learning, Reinforcement Learning 
   - Image Processing, Computer Vision, Natural Language Processing
   - Computational Neuroscience, Brain-Computer Interfaces
   - AI Ethics, Data Security, Cryptography  
   - Advanced Statistical Learning Theory, Optimization, Graphical Modeling
-  - Big Data Analytics, High Performance Computing, Distributed Systems
+  - Big Data Analytics, High-Performance Computing, Distributed Systems
   - Quantum Computing
-## 🌱 I’m currently learning 
+## 🌱 I’m currently learning
+  - Quant Finance & Algorithmic Trading
+  - Quantum Computing
   - Deep Learning
   - Computer Vision
   - Natural Language Processing
-  - Computational Neuroscience
-  - Quantum Computing
 
 ## 🛠️ My Favorite Tools
 
@@ -68,7 +69,7 @@ Hi, I'm Rishi Dey Chowdhury!
 <a href="https://www.youtube.com/channel/UCiOcFWpy2TxZE8hXK4dQ-Wg"><img align="left" src="https://raw.githubusercontent.com/RishiDarkDevil/RishiDarkDevil/main/SVG/Color/Youtube.svg" alt="Rishi Dey Chowdhury | YouTube" width="50px"/></a>
 <a href="https://t.me/RishiDarkDevil"><img align="left" src="https://raw.githubusercontent.com/RishiDarkDevil/RishiDarkDevil/main/SVG/Color/Telegram.svg" alt="Rishi Dey Chowdhury | Telegram" width="50px"/></a>
 </br></br></br>
-💞️ I’m looking to collaborate on Data Science Workflows, Deep Learning Research Projects, Building ML Systems.
+💞️ I’m looking to collaborate on Data Science Workflows, Deep Learning Research Projects, and Building ML Systems.
 
 ### GitHub Stats
 <table class="center" style="width:100%;">
