@@ -12,7 +12,7 @@ Hi, I'm Rishi Dey Chowdhury!
 
 <p align="center">
   <a href="https://rishidarkdevil.github.io/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/52328147/192350589-c7164d50-a563-4405-9ee8-3a8e9efbeacc.png" alt="my banner"></a>
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Machine+Learning;Deep+Learning;Computer+Vision;Natural+Language+Processing;Computational+Neuroscience;Data+Security;Quantum+Computing" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Quantitative+Trading;Machine+Learning;Deep+Learning;Computer+Vision;Natural+Language+Processing;Computational+Neuroscience;Data+Security;Quantum+Computing" alt="Typing SVG" /></a>
 </p> 
 
 ## 🎓 Studying
