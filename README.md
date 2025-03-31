@@ -19,7 +19,7 @@ Hi, I'm Rishi Dey Chowdhury!
   - 🗓 01.12.2020 → 01.06.2023: **Bachelor of Statistics (Hons)** from Indian Statistical Institute, Kolkata - India.
   - 🗓 31.07.2023 → Present: **Master of Statistics** from Indian Statistical Institute, Kolkata - India.
 ## 👀 I’m interested in
-  - Quant Trading & Research, Algorithmic Trading
+  - Quant Trading & Research, Algorithmic and High-Frequency Trading
   - Deep Learning, Machine Learning, Reinforcement Learning 
   - Image Processing, Computer Vision, Natural Language Processing
   - Computational Neuroscience, Brain-Computer Interfaces
